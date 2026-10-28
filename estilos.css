@@ -1,0 +1,14 @@
+h1 {
+  display: flex;
+  margin: auto;
+  font-family: Helvetica;
+  font-size: 4vw;
+  color:rgb(255, 204, 0);
+  position:fixed;
+  top: 10%;
+  left: 45%;
+}
+
+body {
+  background-color: rgb(119, 17, 17);
+}
